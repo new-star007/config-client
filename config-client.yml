@@ -1,5 +1,5 @@
 info:
-  profile: default
+  profile: '{cipher}d8dc2089992941de0ee2e51f88de6c531b263c02859abcc91b3d65661c46e41c'
   from: git1
   
 test: test
